@@ -1,4 +1,4 @@
-# Modular Layouts in React
+# Hook into global state
 
 This is the tutorial code for my article **Hook into global state**. You can visit this article here:
 
