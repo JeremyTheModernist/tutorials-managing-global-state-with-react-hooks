@@ -1,8 +1,8 @@
-# Hook into global state
+# Managing global state with React Hooks
 
 This is the tutorial code for my article **Hook into global state**. You can visit this article here:
 
--   <a href="https://www.jeremysbarnes.com/blog/hook-into-global-state" target="_blank">Hook into global state</a>
+-   <a href="https://www.jeremysbarnes.com/blog/managing-global-state-with-react-hooks" target="_blank">Hook into global state</a>
 
 ## Overview
 
@@ -14,7 +14,7 @@ To see the final code, clone this repository and open it in your code editor. Ne
 
 ```bash
 
-cd tutorials-hook-into-global-state
+cd tutorials-managing-global-state-with-react-hooks
 yarn install
 yarn start
 
