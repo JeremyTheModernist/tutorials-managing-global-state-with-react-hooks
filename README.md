@@ -4,6 +4,10 @@ This is the tutorial code for my article **Hook into global state**. You can vis
 
 -   <a href="https://www.jeremysbarnes.com/blog/hook-into-global-state" target="_blank">Hook into global state</a>
 
+## Overview
+
+Use React Hooks and React Context to switch between global light and dark themes.
+
 ## Usage:
 
 To see the final code, clone this repository and open it in your code editor. Next, open your terminal and run the following commands:
